@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Alexander Sharnin
+- 🌱 I’m currently learning p5.js & Processing.js
+- 📫 How to reach me: run9aways@gmail.com
