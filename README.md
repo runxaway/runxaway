@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Alexander Sharnin
-- 🌱 I’m currently learning p5.js & Processing.js
-- 📫 How to reach me: run9aways@gmail.com
+✦ Hi, I’m Alexander Sharnin
+✧ I’m a UI/UX designer & front-end web developer
+✦ How to reach me: adsharnin@gmail.com
